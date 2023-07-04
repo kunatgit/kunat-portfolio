@@ -52,7 +52,7 @@ const ProjectCard = ({
             flex-col bg-[rgba(122,122,122,0.5)] rounded-b-[24px] z-20">
             <div className="absolute inset-0 flex justify-end m-3">
               <div
-                onClick={() => window.open(repo, '_blank')}
+                onClick={() => window.open("https://github.com/kunatgit", '_blank')}
                 className="bg-night sm:w-11 sm:h-11 w-10 h-10 rounded-full 
                   flex justify-center items-center cursor-pointer
                   sm:opacity-[0.9] opacity-[0.8]">
