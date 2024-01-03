@@ -1,15 +1,7 @@
 #Kunat Portfolio
+## Live Demo Website
 
-## Built With
-
-- React.js
-- Three.js
-- Framer Motion
-- TailwindCSS
-
-## Live Demo
-
-- Click [here](www.google.com) to view the live demo.
+- Click [here](https://kunat-portfolio.vercel.app/) to view this project
 
 ## Getting Started
 
